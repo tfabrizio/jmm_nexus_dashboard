@@ -23,3 +23,5 @@ Alaska, Delaware, Montana, New Hampshire, and Oregon have no state sales tax —
 Stores Covered: Austin · Costa Mesa · Hill Street · SoHo · Sycamore · Venice
 
 The .pbix source file is included in this repository. Interactive access via the Power BI app is available upon request.
+
+!(Nexus&Tax_Obligation_Snapshot.png)
