@@ -24,4 +24,4 @@ Stores Covered: Austin · Costa Mesa · Hill Street · SoHo · Sycamore · Venic
 
 The .pbix source file is included in this repository. Interactive access via the Power BI app is available upon request.
 
-!(Nexus&Tax_Obligation_Snapshot.png)
+![Executive Snapshot](Nexus%26Tax_Obligation_Snapshot.png)
