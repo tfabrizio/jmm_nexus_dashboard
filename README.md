@@ -1,4 +1,3 @@
-# jmm_economicnexus_dash
 Jacques Marie Mage — Economic Nexus & State Tax Obligation Dashboard
 Power BI · 2024 – 2026 H1
 
